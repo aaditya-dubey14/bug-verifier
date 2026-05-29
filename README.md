@@ -1,5 +1,9 @@
 # bug-verifier
 
+<p align="center">
+  <img src="images/tool-image.png" alt="Bug Verifier Logo" width="300">
+</p>
+
 `bug-verifier` is a Go-based CLI tool for reproducing bugs, verifying fixes, and generating verification reports using repeatable test environments.
 
 The project is intended to help engineers validate whether a reported issue is reproducible, whether a fix works, and produce clear verification evidence for issue trackers such as Jira and GitHub.
