@@ -1,5 +1,4 @@
-# <img src="images/tool-image.png" alt="Bug Verifier Logo" width="36" style="vertical-align: middle;"> bug-verifier
-
+# <img src="images/tool-image.png" alt="Bug Verifier Logo" width="40" height="40" style="vertical-align: middle;"> Bug Verifier
 
 `bug-verifier` is a Go-based CLI tool for reproducing bugs, verifying fixes, and generating verification reports using repeatable test environments.
 
